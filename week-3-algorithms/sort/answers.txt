@@ -1,0 +1,19 @@
+sort1 uses: Bubble Sort
+
+How do you know?: I'd already figured that sort2 was merge sort, and sort1
+was much faster than sort3 at sorting the sorted list of 50,000 numbers.
+since bubble sort has a more efficient "best case scenario" than selection sort,
+sort1 must be bubble sort.
+
+sort2 uses: Merge Sort
+
+How do you know?: It was significantly faster than the other two
+at sorting the randomized list of 50,000 numbers. 9 seconds faster
+than sort1 and 3 seconds faster than sort2.
+
+sort3 uses: Selection sort
+
+How do you know?: firstly, process of elimination. secondly, it was better than
+sort1 at sorting the reversed list of 50,000 numbers. This is because sort1 uses
+bubble sort and has to swap every single number all the way to the end of the list
+every single pass it did since the list was reversed.

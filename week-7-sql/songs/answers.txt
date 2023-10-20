@@ -1,0 +1,16 @@
+I'd say this listener's aura is yellow and purple
+because their danceability and energy are relatively high,
+but the valence or "positivity" to the music they listen to is
+slightly below average. this gives me the impression that they
+play varied genres of music throughout the day, giving a balance between
+happier, more upbeat songs, and calmer songs to help focus.
+I'd still say they are more purple than yellow, because of how high the danceability
+is. I'd assume they like to get up and move.
+
+in regards to how this aura may not be very accurate, I'd say it's because
+I have a list of the 100 songs they've heard the most, but I don't know how many
+times they've played each specific song. If I play a sad song 1000 times, and 10
+different happy songs once, Spotify might assume I'm a happier person than I am, based on
+how many more happy songs are in my list. I would try to base the average valence, energy and
+danceability in how many streams I've given each song, and not just on the fact that I've
+played the song in the first place.
